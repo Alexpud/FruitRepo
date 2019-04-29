@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FruitStore
+/ApplicationCore/bin/Debug/netstandard2.0
+/ApplicationCore/obj/Debug/netstandard2.0
+/ApplicationCore/obj
+/ApplicationCore.Tests/bin/Debug/netcoreapp2.1
+/ApplicationCore.Tests/obj
+/FruitStore/bin/Debug/netcoreapp2.1
+/FruitStore/obj/Debug/netcoreapp2.1
+/FruitStore/obj
+/Infrastructure/bin/Debug/netstandard2.0
+/Infrastructure/obj/Debug/netstandard2.0
+/Infrastructure/obj
